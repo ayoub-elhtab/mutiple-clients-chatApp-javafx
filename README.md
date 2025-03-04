@@ -23,21 +23,9 @@ This project demonstrates how to create a multi-client chat application using Ja
 - **Eclipse:** The integrated development environment (IDE) used for development.
 
 
-## Getting Started
-
-### Prerequisites
-
-- **Java 8 or higher** (with JavaFX included or added as a dependency)
-- **Eclipse IDE** for Java development
-- **SceneBuilder** (optional but recommended for modifying FXML files)
-
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/ayoub-elhtab/mutiple-clients-chatApp-javafx.git
-   cd mutiple-clients-chatApp-javafx
-  ```
-
 ![signup form](./images/server.png)
+![signup form](./images/client.png)
+![signup form](./images/server_chat.png)
+![signup form](./images/client_chat.png)
+![signup form](./images/shutdown_server.png)
 
