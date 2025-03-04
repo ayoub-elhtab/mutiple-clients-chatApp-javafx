@@ -1,0 +1,73 @@
+.root {
+    -fx-background-color: linear-gradient(to bottom right, #d9f2e6, #c2e9fb);
+    -fx-font-family: "Segoe UI", sans-serif;
+    -fx-font-size: 14px;
+}
+
+.pane{
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 8px;
+    -fx-padding: 10px;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.15), 6, 0, 0, 3);
+}
+
+
+.title{
+	-fx-font-size: 14px;
+	-fx-font-weight: bold;
+	-fx-text-fill: #1b4965;
+}
+
+
+#shutdown_button {
+  -fx-padding: 1.3em 3em;
+  -fx-font-size: 13px;
+  -fx-font-weight: bold;
+  -fx-text-fill: #333333;
+  -fx-background-color: linear-gradient(to bottom right, #f5f7fa, #c3cfe2);
+  -fx-border-radius: 45px;
+  -fx-cursor: hand ;
+  -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.15), 6, 0, 0, 3);
+}
+
+#shutdown_button:hover {
+   -fx-background-color: linear-gradient(to bottom right, #e8eef2, #b3c9d9);
+}
+
+
+.scroll-pane {
+    -fx-background-color: transparent;
+    -fx-background-radius: 8px;
+    -fx-padding: 10px;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.15), 6, 0, 0, 3);
+   
+}
+
+.messages-container {
+    -fx-background-color: transparent;
+    -fx-padding: 10px;
+}
+
+.text-field {
+    -fx-background-color: #ffffff;
+    -fx-border-radius: 6px;
+    -fx-padding: 10px;
+    -fx-font-size: 14px;
+}
+
+.button {
+    -fx-background-color: linear-gradient(to bottom, #4a90e2, #357ae8);
+    -fx-text-fill: white;
+    -fx-font-size: 15px;
+    -fx-padding: 8px 16px;
+    -fx-background-radius: 6;
+    -fx-cursor: hand ;
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(to bottom, #357ae8, #2a5bb5);
+}
+
+.button:pressed {
+    -fx-background-color: #2a5bb5;
+}
