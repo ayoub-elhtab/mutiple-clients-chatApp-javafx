@@ -6,7 +6,7 @@ A robust multiple client chat application built using Java sockets and JavaFX. T
 
 This project demonstrates how to create a multi-client chat application using Java sockets for networking and JavaFX for a modern, responsive UI. The server handles multiple client connections simultaneously, broadcasting messages to all connected clients in real-time.
 
-## Features
+## 📌 Features
 
 - **Real-time Messaging:** Broadcast messages instantly to all connected clients.
 - **Multiple Clients:** Supports multiple users connecting simultaneously.
@@ -14,7 +14,7 @@ This project demonstrates how to create a multi-client chat application using Ja
 - **Custom Styling:** Uses CSS for UI customization.
 - **Eclipse-Friendly:** Developed in Eclipse, making it easy to import and extend.
 
-## Technologies Used
+## 🚀 Technologies Used
 
 - **Java Sockets:** For handling network communications.
 - **JavaFX:** For creating the user interface.
@@ -22,6 +22,8 @@ This project demonstrates how to create a multi-client chat application using Ja
 - **CSS:** For styling the UI components.
 - **Eclipse:** The integrated development environment (IDE) used for development.
 
+
+## screenshots
 
 ![signup form](./images/server.png)
 ![signup form](./images/client.png)
